@@ -1,0 +1,107 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	overflow-x: hidden;
+	
+}
+
+	
+}
+
+.bg-cover{
+	margin-top: 30px;
+	background-color: orange;
+	height: 320px;
+	background-size: cover;
+	margin-bottom: 30px;
+}
+
+.bg-success{
+	background-color: orange !important;
+	height: 320px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.foot-size{
+	background-color: lightgray;
+	font-family: 'times new roman';
+	
+}
+
+.myh5{
+	font-family: 'times new roman';
+
+}
+
+.fblog{
+	height: 40px;
+
+}
+
+.ftright{
+	float:left;
+}
+
+.pinkline{
+	border-color: #f2469a;
+	border-style: solid;
+	border-width: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+	
+.jumb-news{
+	
+	background-color: lightpink !important;
+}
+
+
+.jumb-annou{
+	
+	background-color: skyblue !important;
+}
+
+.dctann{
+	font-size: 50px !important;
+	font-family: 'times new roman';
+}
+
+.jumbotron{
+	font-family: 'times new roman';
+}
+
+.myheader{
+	margin-top: 100px;
+	height: 200px;
+}
+
+.myfont{
+	font-family: 'times new roman';
+	color: black;
+}
+
+.jumb-jumb{
+	margin-top: 30px;
+}
+
+.mypanhead{
+	background-color: lightpink !important;
+	font-size: 30px;
+}
+.til img
+{
+	width: 1000px;
+     height: 500px;
+     margin-left: -80px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.mage image
+{
+
+}
